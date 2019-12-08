@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="datawebnews@localhost" uuid="781bc021-bf4b-444e-baf2-1d6ceb905f1e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/datawebnews</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="Asia/Bangkok" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
